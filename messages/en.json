@@ -1,4 +1,11 @@
 {
+  "Metadata": {
+    "title": "itashteeb - Find Trusted Construction & Finishing Professionals in Egypt",
+    "titleTemplate": "%s | itashteeb",
+    "description": "Connect with top-rated architects, contractors, interior designers, and finishing experts in Egypt. Browse portfolios, compare prices, and hire verified professionals.",
+    "siteName": "itashteeb",
+    "ogImage": "/og-image-en.jpg"
+  },
   "common": {
     "scrollToTop": "Scroll to top",
     "search": "Search",
