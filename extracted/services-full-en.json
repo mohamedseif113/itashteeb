@@ -1,0 +1,11 @@
+{
+  "hero": {
+    "title": "Our Services",
+    "subtitle": "Find the service you need",
+    "searchPlaceholder": "Search services..."
+  },
+  "filters": {
+    "category": "Category",
+    "price": "Price"
+  }
+}

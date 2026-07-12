@@ -1,0 +1,32 @@
+{
+  "categories": {
+    "title": "Service Categories",
+    "badge": "Service Categories",
+    "heading": "Explore Our Services",
+    "description": "Discover a vast network of specialized professionals across various construction and building sectors",
+    "viewAll": "Explore All Services",
+    "services": "Services",
+    "legend": {
+      "engineeringOffices": "Engineering Offices",
+      "contractors": "Contractors",
+      "furniture": "Furniture & Furnishings",
+      "specializedTechnicians": "Specialized Technicians"
+    }
+  },
+  "eliteDescription": "Meet the finest professionals in construction and design, where expertise meets creativity to bring your vision to life",
+  "latestDescription": "Discover our recent projects where creativity meets quality to transform your vision into reality",
+  "dragHint": "Drag elements to customize the scene",
+  "customizable": "Customizable to Your Needs - Our Professionals Bring Your Vision to Life",
+  "realReviews": "Real Reviews",
+  "qualityGuaranteed": "Quality Guaranteed",
+  "allTypes": "All Types",
+  "allCountries": "All Countries",
+  "anyBudget": "Any Budget",
+  "finishingDate": "Finishing Date",
+  "refineSearch": "Refine Search",
+  "refineHint": "Type, location, and budget",
+  "exploreAllProjects": "Explore All Projects",
+  "availableNow": "Available Now",
+  "verified": "Verified",
+  "areYouPro": "Are you a professional?"
+}

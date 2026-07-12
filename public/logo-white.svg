@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 48" role="img" aria-label="itashteeb">
+  <!-- PLACEHOLDER LOGO (light version for dark/transparent headers) -->
+  <rect x="0" y="6" width="36" height="36" rx="10" fill="#ffffff"/>
+  <path d="M10 30V18h4.2v12H10zm7.5 0V18H30v3.2h-8.3V22H28v3h-6.3v2.2H30V30H17.5z" fill="#1B558E"/>
+  <circle cx="30" cy="14" r="5" fill="#F97316"/>
+  <text x="48" y="31" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#ffffff">itashteeb</text>
+</svg>

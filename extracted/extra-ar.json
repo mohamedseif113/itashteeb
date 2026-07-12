@@ -1,0 +1,32 @@
+{
+  "categories": {
+    "title": "فئات الخدمات",
+    "badge": "فئات الخدمات",
+    "heading": "استكشف خدماتنا",
+    "description": "اكتشف شبكة واسعة من المهنيين المتخصصين في مختلف مجالات البناء والتشييد",
+    "viewAll": "استكشف جميع الخدمات",
+    "services": "خدمة",
+    "legend": {
+      "engineeringOffices": "مكاتب هندسية",
+      "contractors": "مقاولون",
+      "furniture": "الأثاث والديكور",
+      "specializedTechnicians": "فنيون متخصصون"
+    }
+  },
+  "eliteDescription": "تعرف على أفضل المحترفين في مجال البناء والتشييد، حيث يجتمع الخبرة والإبداع لتحقيق رؤيتك",
+  "latestDescription": "اكتشف مشاريعنا الحديثة التي تجمع بين الإبداع والجودة لتحويل رؤيتك إلى واقع ملموس",
+  "dragHint": "اسحب العناصر لتخصيص المشهد",
+  "customizable": "قابل للتخصيص حسب احتياجاتك - احترافيونا يحققون رؤيتك",
+  "realReviews": "تقييمات حقيقية",
+  "qualityGuaranteed": "جودة مضمونة",
+  "allTypes": "كل الأنواع",
+  "allCountries": "جميع الدول",
+  "anyBudget": "كل الميزانيات",
+  "finishingDate": "تاريخ الإنجاز",
+  "refineSearch": "تخصيص البحث",
+  "refineHint": "النوع والموقع والميزانية",
+  "exploreAllProjects": "استكشف جميع المشاريع",
+  "availableNow": "متاح الآن",
+  "verified": "موثق",
+  "areYouPro": "هل أنت محترف؟"
+}

@@ -1,0 +1,597 @@
+{
+  "common": {
+    "search": "Search",
+    "searchPlaceholder": "Search for a service or professional...",
+    "viewMore": "View More",
+    "viewAll": "View All",
+    "contact": "Contact",
+    "phone": "Phone",
+    "email": "Email",
+    "website": "Website",
+    "location": "Location",
+    "categories": "Categories",
+    "filters": "Filters",
+    "filterResults": "Filters",
+    "clearAll": "Clear All",
+    "apply": "Apply",
+    "reset": "Reset",
+    "close": "Close",
+    "submit": "Submit",
+    "loading": "Loading...",
+    "noResults": "No results found",
+    "error": "An error occurred",
+    "tryAgain": "Try Again"
+  },
+  "cta": {
+    "joinToday": "Join Us Today",
+    "expertiseDeserves": "Your Expertise Deserves the Best",
+    "expertiseLine1": "Your Expertise",
+    "expertiseLine2": "Deserves the Best",
+    "description": "If you're a professional, Step into a world of opportunities—log in to connect, collaborate, and create with the best in the industry!",
+    "joinNow": "Join Us Now",
+    "freeToJoin": "Free to Join",
+    "thousandsOfProfessionals": "Thousands of Professionals",
+    "opportunitiesAvailable": "Opportunities Available"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "professionals": "Professionals",
+    "projects": "Projects",
+    "packages": "Packages",
+    "ideaBook": "Idea Book",
+    "about": "About",
+    "contactUs": "Contact Us",
+    "language": "Language",
+    "signIn": "Sign In",
+    "joinToday": "Join Us Today",
+    "joinAsPro": "Join as Pro",
+    "profile": "Profile",
+    "dashboard": "Dashboard",
+    "messages": "Messages",
+    "logout": "Log Out",
+    "logoutConfirmTitle": "Log out of your account?",
+    "logoutConfirmDescription": "You will need to sign in again to access your profile and dashboard.",
+    "logoutCancel": "Cancel",
+    "logoutConfirmAction": "Yes, log out",
+    "loggingOut": "Logging out...",
+    "welcomeBack": "Welcome back"
+  },
+  "home": {
+    "heroTitle": "Find Trusted Construction Professionals",
+    "heroSubtitle": "Connect with the best architects, contractors, and interior designers in Egypt",
+    "searchButton": "Search",
+    "whatAreYouLookingFor": "What service are you looking for?",
+    "selectCategory": "Select Category",
+    "selectLocation": "Select Location",
+    "featuredCategories": "Featured Categories",
+    "featuredProfessionals": "Featured Professionals",
+    "recentProjects": "Recent Projects",
+    "latestProjects": {
+      "badge": "Latest Projects",
+      "title": "Our Latest Work",
+      "enter": "Enter",
+      "byProfessional": "By Professional",
+      "location": "Location",
+      "completion": "Completion",
+      "budget": "Budget",
+      "description": "Description",
+      "keyFeatures": "Key Features",
+      "close": "Close"
+    },
+    "whatWeDo": {
+      "badge": "What We Do",
+      "title": "Your Project Journey Starts Here",
+      "description": "From idea to execution, we provide everything you need to bring your project to life",
+      "ideaBook": {
+        "title": "Idea Book",
+        "subtitle": "Get Inspired",
+        "description": "Browse thousands of completed projects for ideas for your next project",
+        "cta": "Explore"
+      },
+      "professionals": {
+        "title": "Professionals",
+        "subtitle": "Find Your Expert",
+        "description": "Connect with verified, trusted professionals to bring your project to life",
+        "cta": "Explore"
+      },
+      "services": {
+        "title": "Services",
+        "subtitle": "Get the Service You Need",
+        "description": "From design to execution, we provide all the services you need",
+        "cta": "Explore"
+      }
+    },
+    "howItWorks": "How It Works",
+    "howItWorksStep1Title": "Search",
+    "howItWorksStep1Desc": "Browse categories or search for professionals",
+    "howItWorksStep2Title": "Compare",
+    "howItWorksStep2Desc": "Review profiles, ratings, and portfolios",
+    "howItWorksStep3Title": "Connect",
+    "howItWorksStep3Desc": "Contact directly or request a quote",
+    "trustedProfessionals": "500+ Trusted Professionals",
+    "completedProjects": "10,000+ Completed Projects",
+    "satisfiedClients": "Satisfied Clients",
+    "hero": {
+      "title": "Find trusted experts to bring your dream home to life",
+      "subtitle": "Search, compare, and connect with top professionals in design, construction, and finishing",
+      "placeholder": "What service are you looking for?",
+      "category": "Category",
+      "subCategory": "Sub-Category",
+      "city": "City",
+      "search": "Search",
+      "allCategories": "All Categories",
+      "allSubCategories": "All Sub-Categories",
+      "allCities": "All Cities",
+      "popular": "Popular",
+      "searchDropdown": "Search...",
+      "categories": {
+        "architects": "Architects",
+        "contractors": "Contractors",
+        "interiorDesigners": "Interior Designers",
+        "landscapeArchitects": "Landscape Architects",
+        "engineeringOffices": "Engineering Offices",
+        "furniture": "Furniture & Furnishings"
+      },
+      "subCategories": {
+        "residential": "Residential",
+        "commercial": "Commercial",
+        "landscape": "Landscape",
+        "general": "General",
+        "electrical": "Electrical",
+        "plumbing": "Plumbing",
+        "painting": "Painting",
+        "modern": "Modern",
+        "classic": "Classic",
+        "minimalist": "Minimalist"
+      },
+      "cities": {
+        "cairo": "Cairo",
+        "giza": "Giza",
+        "alexandria": "Alexandria",
+        "sharmElSheikh": "Sharm El Sheikh",
+        "hurghada": "Hurghada"
+      },
+      "stats": {
+        "professionals": "Trusted Professionals",
+        "projects": "Projects Completed",
+        "rating": "Client Rating"
+      }
+    }
+  },
+  "footer": {
+    "description": "itashteeb - Trusted platform connecting you with construction and finishing professionals in Egypt. Find the best architects, contractors, interior designers, and finishing experts.",
+    "services": "Services",
+    "company": "Company",
+    "support": "Support",
+    "followUs": "Follow Us",
+    "about": "About Us",
+    "contact": "Contact",
+    "careers": "Careers",
+    "blog": "Blog",
+    "packages": "Packages",
+    "help": "Help",
+    "faq": "FAQ",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "cookies": "Cookie Policy",
+    "contactUs": "Contact Us",
+    "rights": "All rights reserved",
+    "categories": {
+      "architects": "Architects",
+      "contractors": "Contractors",
+      "interiorDesigners": "Interior Designers",
+      "painters": "Painters"
+    }
+  },
+  "services": {
+    "title": "Services",
+    "subtitle": "Get the Service You Need",
+    "description": "From design to execution, we provide all the services you need",
+    "cta": "Explore"
+  },
+  "professionals": {
+    "title": "Professionals",
+    "subtitle": "Find Your Expert",
+    "description": "Connect with verified, trusted professionals to bring your project to life",
+    "cta": "Explore"
+  },
+  "ideaBook": {
+    "title": "Idea Book",
+    "subtitle": "Get Inspired",
+    "description": "Browse thousands of completed projects for ideas for your next project",
+    "cta": "Explore"
+  },
+  "auth": {
+    "signIn": {
+      "title": "Welcome Back",
+      "subtitle": "Sign in to continue your journey",
+      "phoneEmailLabel": "Phone Number or Email",
+      "phoneEmailPlaceholder": "Enter your phone or email",
+      "passwordLabel": "Password",
+      "passwordPlaceholder": "Enter your password",
+      "rememberMe": "Remember me",
+      "forgotPassword": "Forgot password?",
+      "signInButton": "Sign In",
+      "signingIn": "Signing in...",
+      "noAccount": "Don't have an account?",
+      "signUpLink": "Sign up now",
+      "socialProof": "Join 1,000+ professionals",
+      "trustedBy": "Trusted by professionals across Egypt",
+      "badges": {
+        "rating": "4.9/5",
+        "secure": "Secure"
+      },
+      "errors": {
+        "invalidCredentials": "Invalid phone/email or password",
+        "required": "This field is required",
+        "invalidFormat": "Invalid format",
+        "serverError": "Something went wrong. Please try again."
+      }
+    },
+    "signUp": {
+      "title": "Create Your Account",
+      "subtitle": "Join our community of professionals and customers",
+      "userTypeTitle": "I am a...",
+      "customer": {
+        "title": "Customer",
+        "description": "Looking for trusted professionals",
+        "benefits": {
+          "1": "Find verified professionals",
+          "2": "Browse inspiration gallery",
+          "3": "Get instant quotes",
+          "4": "Save your favorites"
+        },
+        "cta": "Continue as Customer",
+        "select": "Select",
+        "selected": "Selected",
+        "illustrationAlt": "Friendly customer exploring renovation ideas",
+        "illustrationCaption": "Discover curated professionals tailored to your project"
+      },
+      "professional": {
+        "title": "Professional",
+        "description": "Grow your business with us",
+        "badge": "Recommended",
+        "benefits": {
+          "1": "Get more quality leads",
+          "2": "Showcase your portfolio",
+          "3": "Build your brand",
+          "4": "Access premium features"
+        },
+        "cta": "Continue as Professional",
+        "select": "Select",
+        "selected": "Selected",
+        "illustrationAlt": "Confident contractor ready to take on new projects",
+        "illustrationCaption": "Showcase your expertise and win premium leads"
+      },
+      "alreadyHaveAccount": "Already have an account?",
+      "signInLink": "Sign in"
+    },
+    "professionalIntro": {
+      "badge": "Professional Membership",
+      "title": "Why Join itashteeb?",
+      "subtitle": "Discover how our platform helps you reach more customers and grow your business",
+      "benefits": {
+        "brandPromotion": {
+          "title": "Brand Promotion",
+          "subtitle": "Raise Brand Identity",
+          "description": "Raise brand identity through effective marketing campaigns to reach potential customers."
+        },
+        "achievements": {
+          "title": "Showcasing Achievements",
+          "subtitle": "Achievements",
+          "description": "Highlighting successes and projects to build trust and credibility through stories."
+        },
+        "expertise": {
+          "title": "Highlighting Expertise",
+          "subtitle": "Expertise",
+          "description": "Share brand identity through attractive websites to engage and attract potential customers."
+        },
+        "digitalMarketing": {
+          "title": "Digital Marketing Support",
+          "subtitle": "Digital",
+          "description": "Use digital marketing tactics effectively to reach the largest number of customers."
+        },
+        "communication": {
+          "title": "Ease Of Communication",
+          "subtitle": "Communication",
+          "description": "Fast, reliable communication channels to ensure smooth interaction with customers."
+        },
+        "ideas": {
+          "title": "More Ideas",
+          "subtitle": "Ideas",
+          "description": "Showcase your catalog of ideas to a coordinated audience in one place."
+        }
+      },
+      "cta": {
+        "primary": "Create My Professional Account",
+        "back": "Back to selection",
+        "explorePackages": "Explore available packages"
+      },
+      "proofInNumbers": "Proof in numbers",
+      "packageSummary": "Pick the package that fits your goals and start building stronger professional visibility on itashteeb.",
+      "stats": {
+        "professionals": "1,000+ Professionals",
+        "projects": "10,000+ Projects",
+        "customers": "50,000+ Customers"
+      },
+      "alreadyHaveAccount": "Already have an account?",
+      "signInLink": "Sign in"
+    },
+    "register": {
+      "title": "Create Your Account",
+      "subtitle": "Just a few steps to get started",
+      "customerBadge": "Customer Account",
+      "professionalBadge": "Professional Account",
+      "form": {
+        "brandLogoLabel": "Brand Logo",
+        "brandLogoHelper": "Upload your logo (PNG, JPG, or WebP up to 5MB)",
+        "brandLogoCta": "Click to upload your logo",
+        "brandLogoChange": "Change logo",
+        "brandLogoPreviewAlt": "Brand logo preview",
+        "nameLabel": "Full Name",
+        "namePlaceholder": "Enter your full name",
+        "brandNameLabel": "Brand Name",
+        "brandNamePlaceholder": "Enter your brand name",
+        "emailLabel": "Email",
+        "emailPlaceholder": "Enter your email address",
+        "phoneLabel": "Phone Number",
+        "phonePlaceholder": "10XXXXXXXX",
+        "passwordLabel": "Password",
+        "passwordPlaceholder": "Create a strong password",
+        "confirmPasswordLabel": "Confirm Password",
+        "confirmPasswordPlaceholder": "Re-enter your password",
+        "termsLabel": "I agree to the <terms>Terms & Conditions</terms> and <privacy>Privacy Policy</privacy>",
+        "submitButton": "Create Account",
+        "submitting": "Creating your account..."
+      },
+      "passwordStrength": {
+        "weak": "Weak",
+        "medium": "Medium",
+        "strong": "Strong",
+        "requirements": "Password must contain:",
+        "minLength": "At least 8 characters",
+        "uppercase": "One uppercase letter",
+        "number": "One number",
+        "special": "One special character"
+      },
+      "validation": {
+        "nameRequired": "Full name is required",
+        "brandLogoRequired": "Brand logo is required",
+        "brandLogoFormat": "Please upload an image file (PNG, JPG, or WebP)",
+        "brandLogoSize": "Logo must be smaller than 5MB",
+        "brandNameRequired": "Brand name is required",
+        "emailRequired": "Email is required",
+        "emailInvalid": "Please enter a valid email address",
+        "phoneRequired": "Phone number is required",
+        "phoneFormat": "Invalid Egyptian phone number format",
+        "passwordRequired": "Password is required",
+        "passwordWeak": "Password is too weak",
+        "passwordMatch": "Passwords do not match",
+        "termsRequired": "You must agree to the terms"
+      },
+      "changeRole": "Change role",
+      "alreadyHaveAccount": "Already have an account?",
+      "signInLink": "Sign in"
+    },
+    "forgotPassword": {
+      "title": "Forgot Password?",
+      "subtitle": "No worries! Enter your email or phone number and we'll send you a reset link",
+      "emailPhoneLabel": "Email or Phone Number",
+      "emailPhonePlaceholder": "Enter your email or phone",
+      "sendButton": "Send Reset Link",
+      "sending": "Sending...",
+      "backToSignIn": "Back to sign in",
+      "success": {
+        "title": "Check Your Inbox",
+        "subtitle": "We've sent a password reset link to",
+        "instruction": "Click the link in the email to reset your password. The link will expire in 1 hour.",
+        "didntReceive": "Didn't receive the email?",
+        "resend": "Resend link",
+        "returnToSignIn": "Return to sign in"
+      },
+      "errors": {
+        "required": "This field is required",
+        "invalidFormat": "Invalid email or phone number format",
+        "notFound": "No account found with this email or phone",
+        "serverError": "Something went wrong. Please try again.",
+        "tooManyRequests": "Too many requests. Please try again later."
+      }
+    },
+    "resetPassword": {
+      "title": "Reset Your Password",
+      "subtitle": "Enter your new password below",
+      "newPasswordLabel": "New Password",
+      "newPasswordPlaceholder": "Enter your new password",
+      "confirmPasswordLabel": "Confirm New Password",
+      "confirmPasswordPlaceholder": "Re-enter your new password",
+      "resetButton": "Reset Password",
+      "resetting": "Resetting...",
+      "passwordStrength": {
+        "weak": "Weak",
+        "medium": "Medium",
+        "strong": "Strong",
+        "requirements": "Password must contain:",
+        "minLength": "At least 8 characters",
+        "uppercase": "One uppercase letter",
+        "number": "One number",
+        "special": "One special character"
+      },
+      "success": {
+        "title": "Password Reset Successful!",
+        "subtitle": "Your password has been successfully reset",
+        "instruction": "You can now sign in with your new password",
+        "signInButton": "Sign In"
+      },
+      "errors": {
+        "required": "This field is required",
+        "passwordWeak": "Password is too weak",
+        "passwordMatch": "Passwords do not match",
+        "invalidToken": "Invalid or expired reset link",
+        "serverError": "Something went wrong. Please try again."
+      }
+    },
+    "verify": {
+      "title": "Verify Your Email",
+      "subtitle": "We've sent a 6-digit code to",
+      "codeLabel": "Enter verification code",
+      "verifyButton": "Verify Email",
+      "verifying": "Verifying...",
+      "didntReceive": "Didn't receive the code?",
+      "resend": "Resend code",
+      "resending": "Resending...",
+      "backToSignIn": "Back to sign in",
+      "success": {
+        "title": "Email Verified!",
+        "subtitle": "Your account is ready. Redirecting..."
+      },
+      "errors": {
+        "codeRequired": "Please enter the 6-digit code",
+        "invalidLink": "Invalid verification link",
+        "verificationFailed": "Verification failed. Please try again.",
+        "resendFailed": "Failed to resend code. Please try again."
+      }
+    }
+  },
+  "packages": {
+    "selection": {
+      "monthly": "Monthly",
+      "yearly": "Yearly"
+    },
+    "hero": {
+      "title": "Grow Your Business with Professional Packages",
+      "subtitle": "Showcase your work, attract clients, and grow your professional network",
+      "description": "Choose the perfect package to elevate your professional presence and connect with potential clients",
+      "cta": "View Packages",
+      "trustedBy": "Trusted by over 1,000+ professionals"
+    },
+    "comparison": {
+      "title": "Choose Your Perfect Package",
+      "subtitle": "Compare features and find the package that fits your business needs",
+      "mostPopular": "Most Popular",
+      "bestValue": "Best Value",
+      "limitedTime": "Limited Time",
+      "new": "New",
+      "selectPackage": "Select Package",
+      "contactSales": "Contact Sales",
+      "monthly": "Monthly",
+      "yearly": "Yearly",
+      "categories": {
+        "all": "All",
+        "core": "Core",
+        "advanced": "Advanced",
+        "premium": "Premium",
+        "pricing": "Pricing",
+        "features": "Features",
+        "support": "Support",
+        "billing": "Billing",
+        "trial": "Trial"
+      },
+      "save": "Save"
+    },
+    "requestSpecialPackage": "Request Special Package",
+    "customPricing": "Special price",
+    "contactForOffer": "Contact us for a tailored offer",
+    "specialPriceShort": "Contact us",
+    "specialPackageCardHelper": "Tailored offer for your business.",
+    "specialPackageHelper": "This package uses custom pricing. Submit your request and our team will contact you.",
+    "sendRequest": "Send Request",
+    "requestSent": "Your request was sent successfully. Our team will contact you soon.",
+    "signInToPrefill": "Sign in to auto-fill your company details.",
+    "specialRequest": {
+      "badge": "Special Package",
+      "contactShort": "Contact Us",
+      "submitShort": "Send Request",
+      "shortDescription": "Share your details and our team will contact you with a tailored offer.",
+      "name": "Full Name",
+      "namePlaceholder": "Enter your full name",
+      "phone": "Phone",
+      "email": "Email",
+      "emailPlaceholder": "Enter your email",
+      "period": "Billing Period",
+      "cancel": "Cancel",
+      "close": "Close",
+      "sending": "Sending...",
+      "successDescription": "Our team will review your request and contact you with a tailored offer.",
+      "validationRequired": "Name, phone, and email are required.",
+      "validationEmail": "Please enter a valid email address."
+    },
+    "showcase": {
+      "title": "Everything You Need to Succeed",
+      "subtitle": "Powerful features designed to help you showcase your work and grow your business",
+      "projectShowcase": {
+        "title": "Project Showcase",
+        "description": "Display your best work with high-quality images and detailed descriptions"
+      },
+      "galleryManagement": {
+        "title": "Gallery Management",
+        "description": "Organize and showcase your portfolio with unlimited image uploads"
+      },
+      "leadGeneration": {
+        "title": "Lead Generation",
+        "description": "Connect with potential clients and grow your business network"
+      },
+      "analytics": {
+        "title": "Advanced Analytics",
+        "description": "Track your performance and optimize your professional presence"
+      }
+    },
+    "testimonials": {
+      "title": "Success Stories",
+      "subtitle": "See how professionals are growing their business with our packages",
+      "readMore": "Read More Stories"
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "subtitle": "Everything you need to know about our professional packages",
+      "questions": {
+        "pricing": {
+          "question": "How does the pricing work?",
+          "answer": "Our packages are priced monthly in Egyptian Pounds (EGP). You can upgrade or downgrade your package at any time."
+        },
+        "features": {
+          "question": "What features are included?",
+          "answer": "Each package includes different features like project showcases, gallery management, lead generation, and analytics. Check our comparison table for details."
+        },
+        "support": {
+          "question": "What kind of support do you provide?",
+          "answer": "We provide email support for all packages, with priority support and dedicated account managers for higher tiers."
+        },
+        "cancellation": {
+          "question": "Can I cancel my subscription?",
+          "answer": "Yes, you can cancel your subscription at any time. Your access will continue until the end of your billing period."
+        }
+      }
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "subtitle": "Join thousands of professionals who are already growing their business with Bnaia Services",
+      "getStarted": "Get Started Now",
+      "contactUs": "Contact Us",
+      "freeTrial": "Start Free Trial"
+    },
+    "tiers": {
+      "starter": "Starter",
+      "professional": "Professional",
+      "business": "Business",
+      "enterprise": "Enterprise"
+    },
+    "categories": {
+      "portfolio": "Portfolio",
+      "leads": "Leads",
+      "premium": "Premium",
+      "enterprise": "Enterprise"
+    },
+    "features": {
+      "projectShowcases": "Project Showcases",
+      "galleryImages": "Gallery Images",
+      "ideaBookEntries": "Idea Book Entries",
+      "leadGeneration": "Lead Generation",
+      "analytics": "Analytics",
+      "customDomain": "Custom Domain",
+      "accountManager": "Account Manager",
+      "whiteLabel": "White Label",
+      "support": "Support"
+    }
+  }
+}

@@ -1,0 +1,597 @@
+{
+  "common": {
+    "search": "بحث",
+    "searchPlaceholder": "ابحث عن خدمة أو محترف...",
+    "viewMore": "عرض المزيد",
+    "viewAll": "عرض الجميع",
+    "contact": "تواصل",
+    "phone": "هاتف",
+    "email": "بريد إلكتروني",
+    "website": "موقع إلكتروني",
+    "location": "الموقع",
+    "categories": "الفئات",
+    "filters": "تصفية",
+    "filterResults": "النتائج",
+    "clearAll": "مسح الكل",
+    "apply": "تطبيق",
+    "reset": "إعادة تعيين",
+    "close": "إغلاق",
+    "submit": "إرسال",
+    "loading": "جارٍ التحميل...",
+    "noResults": "لا توجد نتائج",
+    "error": "حدث خطأ",
+    "tryAgain": "حاول مرة أخرى"
+  },
+  "cta": {
+    "joinToday": "انضم إلينا اليوم",
+    "expertiseDeserves": "خبيرتك تستحق الأفضل",
+    "expertiseLine1": "خبيرتك تستحق",
+    "expertiseLine2": "الأفضل",
+    "description": "إذا كنت محترفاً، ادخل إلى عالم من الفرص - سجل الدخول للتواصل والتعاون والابتكار مع الأفضل في الصناعة!",
+    "joinNow": "انضم إلينا الآن",
+    "freeToJoin": "مجاني للانضمام",
+    "thousandsOfProfessionals": "آلاف المحترفين",
+    "opportunitiesAvailable": "فرص متاحة"
+  },
+  "nav": {
+    "home": "الرئيسية",
+    "services": "الخدمات",
+    "professionals": "المحترفون",
+    "projects": "المشاريع",
+    "packages": "الباقات",
+    "ideaBook": "معرض الأفكار",
+    "about": "من نحن",
+    "contactUs": "اتصل بنا",
+    "language": "اللغة",
+    "signIn": "تسجيل الدخول",
+    "joinToday": "انضم إلينا اليوم",
+    "joinAsPro": "انضم كمحترف",
+    "profile": "الملف الشخصي",
+    "dashboard": "لوحة التحكم",
+    "messages": "الرسائل",
+    "logout": "تسجيل الخروج",
+    "logoutConfirmTitle": "تسجيل الخروج من حسابك؟",
+    "logoutConfirmDescription": "ستحتاج إلى تسجيل الدخول مرة أخرى للوصول إلى ملفك الشخصي ولوحة التحكم.",
+    "logoutCancel": "إلغاء",
+    "logoutConfirmAction": "نعم، سجّل الخروج",
+    "loggingOut": "جارٍ تسجيل الخروج...",
+    "welcomeBack": "مرحباً بعودتك"
+  },
+  "home": {
+    "heroTitle": "ابحث عن محترفي البناء الموثوقين",
+    "heroSubtitle": "تواصل مع أفضل المهندسين المعماريين، المقاولين، ومصممي الديكور في مصر",
+    "searchButton": "بحث",
+    "whatAreYouLookingFor": "ما الخدمة التي تبحث عنها؟",
+    "selectCategory": "اختر فئة",
+    "selectLocation": "اختر الموقع",
+    "featuredCategories": "الفئات المميزة",
+    "featuredProfessionals": "محترفون مميزون",
+    "recentProjects": "مشاريع حديثة",
+    "latestProjects": {
+      "badge": "أحدث المشاريع",
+      "title": "أحدث أعمالنا",
+      "enter": "دخول",
+      "byProfessional": "المهندس",
+      "location": "الموقع",
+      "completion": "تاريخ الإنجاز",
+      "budget": "الميزانية",
+      "description": "الوصف",
+      "keyFeatures": "المميزات الرئيسية",
+      "close": "إغلاق"
+    },
+    "whatWeDo": {
+      "badge": "ما نقدمه",
+      "title": "رحلة مشروعك تبدأ هنا",
+      "description": "من الفكرة إلى التنفيذ، نوفر لك كل ما تحتاجه لتحقيق مشروعك",
+      "ideaBook": {
+        "title": "كتاب الأفكار",
+        "subtitle": "استلهم من مشاريعنا",
+        "description": "تصفح آلاف المشاريع المكتملة للحصول على أفكار لمشروعك القادم",
+        "cta": "استكشف"
+      },
+      "professionals": {
+        "title": "المحترفون",
+        "subtitle": "اعثر على الخبير المثالي",
+        "description": "تواصل مع محترفين معتمدين وموثوقين لتحقيق مشروعك",
+        "cta": "استكشف"
+      },
+      "services": {
+        "title": "الخدمات",
+        "subtitle": "احصل على الخدمة المطلوبة",
+        "description": "من التصميم إلى التنفيذ، نوفر جميع الخدمات التي تحتاجها",
+        "cta": "استكشف"
+      }
+    },
+    "howItWorks": "كيف يعمل",
+    "howItWorksStep1Title": "ابحث",
+    "howItWorksStep1Desc": "تصفح الفئات أو ابحث عن محترفين",
+    "howItWorksStep2Title": "قارن",
+    "howItWorksStep2Desc": "راجع الملفات الشخصية والتقييمات والمحافظ",
+    "howItWorksStep3Title": "تواصل",
+    "howItWorksStep3Desc": "اتصل مباشرة أو اطلب عرض سعر",
+    "trustedProfessionals": "أكثر من 500 محترف موثوق",
+    "completedProjects": "أكثر من 10,000 مشروع مكتمل",
+    "satisfiedClients": "عملاء راضون",
+    "hero": {
+      "title": "اعثر على خبراء موثوقين لتحقيق منزل أحلامك",
+      "subtitle": "ابحث، قارن، وتواصل مع أفضل المحترفين في التصميم والبناء والتشطيب",
+      "placeholder": "ما الخدمة التي تبحث عنها؟",
+      "category": "الفئة",
+      "subCategory": "الفئة الفرعية",
+      "city": "المدينة",
+      "search": "بحث",
+      "allCategories": "جميع الفئات",
+      "allSubCategories": "جميع الفئات الفرعية",
+      "allCities": "جميع المدن",
+      "popular": "الأكثر بحثاً",
+      "searchDropdown": "بحث...",
+      "categories": {
+        "architects": "مهندسون معماريون",
+        "contractors": "مقاولون",
+        "interiorDesigners": "مصممو ديكور",
+        "landscapeArchitects": "مهندسو تنسيق المواقع",
+        "engineeringOffices": "مكاتب هندسية",
+        "furniture": "أثاث وديكورات"
+      },
+      "subCategories": {
+        "residential": "سكني",
+        "commercial": "تجاري",
+        "landscape": "تنسيق مواقع",
+        "general": "عام",
+        "electrical": "كهرباء",
+        "plumbing": "سباكة",
+        "painting": "دهانات",
+        "modern": "حديث",
+        "classic": "كلاسيكي",
+        "minimalist": "بسيط"
+      },
+      "cities": {
+        "cairo": "القاهرة",
+        "giza": "الجيزة",
+        "alexandria": "الإسكندرية",
+        "sharmElSheikh": "شرم الشيخ",
+        "hurghada": "الغردقة"
+      },
+      "stats": {
+        "professionals": "محترف موثوق",
+        "projects": "مشروع مكتمل",
+        "rating": "تقييم العملاء"
+      }
+    }
+  },
+  "footer": {
+    "description": "أي تشطيب - منصة موثوقة للتواصل مع محترفي البناء والتشطيبات في مصر. ابحث عن أفضل المهندسين المعماريين، المقاولين، مصممي الديكور، وخبراء التشطيبات.",
+    "services": "الخدمات",
+    "company": "الشركة",
+    "support": "الدعم",
+    "followUs": "تابعنا",
+    "about": "من نحن",
+    "contact": "اتصل بنا",
+    "careers": "الوظائف",
+    "blog": "المدونة",
+    "packages": "الباقات",
+    "help": "المساعدة",
+    "faq": "الأسئلة الشائعة",
+    "terms": "الشروط والأحكام",
+    "privacy": "سياسة الخصوصية",
+    "cookies": "سياسة ملفات تعريف الارتباط",
+    "contactUs": "تواصل معنا",
+    "rights": "جميع الحقوق محفوظة",
+    "categories": {
+      "architects": "مهندسون معماريون",
+      "contractors": "مقاولون",
+      "interiorDesigners": "مصممو ديكور",
+      "painters": "دهانون"
+    }
+  },
+  "services": {
+    "title": "الخدمات",
+    "subtitle": "احصل على الخدمة المطلوبة",
+    "description": "من التصميم إلى التنفيذ، نوفر جميع الخدمات التي تحتاجها",
+    "cta": "استكشف"
+  },
+  "professionals": {
+    "title": "المحترفون",
+    "subtitle": "اعثر على الخبير المثالي",
+    "description": "تواصل مع محترفين معتمدين وموثوقين لتحقيق مشروعك",
+    "cta": "استكشف"
+  },
+  "ideaBook": {
+    "title": "كتاب الأفكار",
+    "subtitle": "استلهم من مشاريعنا",
+    "description": "تصفح آلاف المشاريع المكتملة للحصول على أفكار لمشروعك القادم",
+    "cta": "استكشف"
+  },
+  "auth": {
+    "signIn": {
+      "title": "مرحبًا بعودتك",
+      "subtitle": "سجل الدخول لمتابعة رحلتك",
+      "phoneEmailLabel": "رقم الهاتف أو البريد الإلكتروني",
+      "phoneEmailPlaceholder": "أدخل رقم الهاتف أو البريد الإلكتروني",
+      "passwordLabel": "كلمة المرور",
+      "passwordPlaceholder": "أدخل كلمة المرور",
+      "rememberMe": "تذكرني",
+      "forgotPassword": "نسيت كلمة المرور؟",
+      "signInButton": "تسجيل الدخول",
+      "signingIn": "جارٍ تسجيل الدخول...",
+      "noAccount": "ليس لديك حساب؟",
+      "signUpLink": "سجل الآن",
+      "socialProof": "انضم إلى أكثر من 1,000 محترف",
+      "trustedBy": "موثوق به من قبل المحترفين في جميع أنحاء مصر",
+      "badges": {
+        "rating": "4.9/5",
+        "secure": "آمن"
+      },
+      "errors": {
+        "invalidCredentials": "رقم الهاتف/البريد الإلكتروني أو كلمة المرور غير صحيحة",
+        "required": "هذا الحقل مطلوب",
+        "invalidFormat": "التنسيق غير صحيح",
+        "serverError": "حدث خطأ ما. يرجى المحاولة مرة أخرى."
+      }
+    },
+    "signUp": {
+      "title": "إنشاء حسابك",
+      "subtitle": "انضم إلى مجتمعنا من المحترفين والعملاء",
+      "userTypeTitle": "أنا...",
+      "customer": {
+        "title": "عميل",
+        "description": "أبحث عن محترفين موثوقين",
+        "benefits": {
+          "1": "ابحث عن محترفين معتمدين",
+          "2": "تصفح معرض الإلهام",
+          "3": "احصل على عروض أسعار فورية",
+          "4": "احفظ المفضلات لديك"
+        },
+        "cta": "متابعة كعميل",
+        "select": "اختر",
+        "selected": "محدد",
+        "illustrationAlt": "عميل ودود يستكشف أفكار التجديد",
+        "illustrationCaption": "اكتشف محترفين مختارين بعناية ليناسبوا مشروعك"
+      },
+      "professional": {
+        "title": "محترف",
+        "description": "نمِّ عملك معنا",
+        "badge": "موصى به",
+        "benefits": {
+          "1": "احصل على المزيد من العملاء المحتملين",
+          "2": "اعرض أعمالك",
+          "3": "بناء علامتك التجارية",
+          "4": "الوصول إلى الميزات المميزة"
+        },
+        "cta": "متابعة كمحترف",
+        "select": "اختر",
+        "selected": "محدد",
+        "illustrationAlt": "مقاول واثق جاهز لتولي مشاريع جديدة",
+        "illustrationCaption": "اعرض خبراتك واجذب أفضل الفرص"
+      },
+      "alreadyHaveAccount": "لديك حساب بالفعل؟",
+      "signInLink": "تسجيل الدخول"
+    },
+    "professionalIntro": {
+      "badge": "عضوية احترافية",
+      "title": "لماذا تنضم إلى أي تشطيب؟",
+      "subtitle": "اكتشف كيف تساعدك منصتنا على الوصول إلى المزيد من العملاء وتنمية أعمالك",
+      "benefits": {
+        "brandPromotion": {
+          "title": "الترويج للعلامة التجارية",
+          "subtitle": "رفع هوية العلامة التجارية",
+          "description": "رفع هوية العلامة التجارية من خلال حملات تسويقية فعالة للوصول إلى العملاء المحتملين."
+        },
+        "achievements": {
+          "title": "عرض الإنجازات",
+          "subtitle": "الإنجازات",
+          "description": "إبراز النجاحات والمشاريع لبناء الثقة والمصداقية من خلال القصص."
+        },
+        "expertise": {
+          "title": "إبراز الخبرة",
+          "subtitle": "الخبرة",
+          "description": "مشاركة هوية العلامة التجارية من خلال مواقع ويب جذابة لإشراك العملاء المحتملين وجذبهم."
+        },
+        "digitalMarketing": {
+          "title": "دعم التسويق الرقمي",
+          "subtitle": "الرقمي",
+          "description": "استخدام تكتيكات التسويق الرقمي بشكل فعال للوصول إلى أكبر عدد من العملاء."
+        },
+        "communication": {
+          "title": "سهولة التواصل",
+          "subtitle": "التواصل",
+          "description": "قنوات اتصال سريعة وموثوقة لضمان تفاعل سلس مع العملاء."
+        },
+        "ideas": {
+          "title": "المزيد من الأفكار",
+          "subtitle": "الأفكار",
+          "description": "اعرض كتالوج أفكارك لجمهور منسق في مكان واحد."
+        }
+      },
+      "cta": {
+        "primary": "إنشاء حسابي الاحترافي",
+        "back": "العودة إلى الاختيار",
+        "explorePackages": "استعرض الباقات المتاحة"
+      },
+      "proofInNumbers": "أرقام موثوقة",
+      "packageSummary": "اختر الباقة المناسبة لك وابدأ بناء حضور مهني أقوى داخل مجتمع أي تشطيب.",
+      "stats": {
+        "professionals": "أكثر من 1,000 محترف",
+        "projects": "أكثر من 10,000 مشروع",
+        "customers": "أكثر من 50,000 عميل"
+      },
+      "alreadyHaveAccount": "لديك حساب بالفعل؟",
+      "signInLink": "تسجيل الدخول"
+    },
+    "register": {
+      "title": "إنشاء حسابك",
+      "subtitle": "بضع خطوات فقط للبدء",
+      "customerBadge": "حساب عميل",
+      "professionalBadge": "حساب احترافي",
+      "form": {
+        "brandLogoLabel": "شعار العلامة التجارية",
+        "brandLogoHelper": "قم برفع شعارك (PNG أو JPG أو WebP بحد أقصى 5 ميجابايت)",
+        "brandLogoCta": "انقر لرفع شعارك",
+        "brandLogoChange": "تغيير الشعار",
+        "brandLogoPreviewAlt": "معاينة شعار العلامة التجارية",
+        "nameLabel": "الاسم الكامل",
+        "namePlaceholder": "أدخل اسمك الكامل",
+        "brandNameLabel": "اسم العلامة التجارية",
+        "brandNamePlaceholder": "أدخل اسم علامتك التجارية",
+        "emailLabel": "البريد الإلكتروني",
+        "emailPlaceholder": "أدخل بريدك الإلكتروني",
+        "phoneLabel": "رقم الهاتف",
+        "phonePlaceholder": "10XXXXXXXX",
+        "passwordLabel": "كلمة المرور",
+        "passwordPlaceholder": "أنشئ كلمة مرور قوية",
+        "confirmPasswordLabel": "تأكيد كلمة المرور",
+        "confirmPasswordPlaceholder": "أعد إدخال كلمة المرور",
+        "termsLabel": "أوافق على <terms>الشروط والأحكام</terms> و<privacy>سياسة الخصوصية</privacy>",
+        "submitButton": "إنشاء حساب",
+        "submitting": "جارٍ إنشاء حسابك..."
+      },
+      "passwordStrength": {
+        "weak": "ضعيفة",
+        "medium": "متوسطة",
+        "strong": "قوية",
+        "requirements": "يجب أن تحتوي كلمة المرور على:",
+        "minLength": "8 أحرف على الأقل",
+        "uppercase": "حرف كبير واحد",
+        "number": "رقم واحد",
+        "special": "رمز خاص واحد"
+      },
+      "validation": {
+        "nameRequired": "الاسم الكامل مطلوب",
+        "brandLogoRequired": "شعار العلامة التجارية مطلوب",
+        "brandLogoFormat": "يرجى رفع ملف صورة (PNG أو JPG أو WebP)",
+        "brandLogoSize": "يجب ألا يزيد حجم الشعار عن 5 ميجابايت",
+        "brandNameRequired": "اسم العلامة التجارية مطلوب",
+        "emailRequired": "البريد الإلكتروني مطلوب",
+        "emailInvalid": "يرجى إدخال بريد إلكتروني صالح",
+        "phoneRequired": "رقم الهاتف مطلوب",
+        "phoneFormat": "تنسيق رقم الهاتف المصري غير صحيح",
+        "passwordRequired": "كلمة المرور مطلوبة",
+        "passwordWeak": "كلمة المرور ضعيفة جدًا",
+        "passwordMatch": "كلمات المرور غير متطابقة",
+        "termsRequired": "يجب الموافقة على الشروط"
+      },
+      "changeRole": "تغيير الدور",
+      "alreadyHaveAccount": "لديك حساب بالفعل؟",
+      "signInLink": "تسجيل الدخول"
+    },
+    "forgotPassword": {
+      "title": "نسيت كلمة المرور؟",
+      "subtitle": "لا تقلق! أدخل بريدك الإلكتروني أو رقم هاتفك وسنرسل لك رابط إعادة التعيين",
+      "emailPhoneLabel": "البريد الإلكتروني أو رقم الهاتف",
+      "emailPhonePlaceholder": "أدخل بريدك الإلكتروني أو رقم هاتفك",
+      "sendButton": "إرسال رابط إعادة التعيين",
+      "sending": "جاري الإرسال...",
+      "backToSignIn": "العودة لتسجيل الدخول",
+      "success": {
+        "title": "تحقق من بريدك الوارد",
+        "subtitle": "لقد أرسلنا رابط إعادة تعيين كلمة المرور إلى",
+        "instruction": "انقر على الرابط في البريد الإلكتروني لإعادة تعيين كلمة المرور. ستنتهي صلاحية الرابط خلال ساعة واحدة.",
+        "didntReceive": "لم تستلم البريد الإلكتروني؟",
+        "resend": "إعادة إرسال الرابط",
+        "returnToSignIn": "العودة لتسجيل الدخول"
+      },
+      "errors": {
+        "required": "هذا الحقل مطلوب",
+        "invalidFormat": "تنسيق البريد الإلكتروني أو رقم الهاتف غير صحيح",
+        "notFound": "لم يتم العثور على حساب بهذا البريد الإلكتروني أو رقم الهاتف",
+        "serverError": "حدث خطأ ما. يرجى المحاولة مرة أخرى.",
+        "tooManyRequests": "عدد كبير جدًا من الطلبات. يرجى المحاولة لاحقًا."
+      }
+    },
+    "resetPassword": {
+      "title": "إعادة تعيين كلمة المرور",
+      "subtitle": "أدخل كلمة المرور الجديدة أدناه",
+      "newPasswordLabel": "كلمة المرور الجديدة",
+      "newPasswordPlaceholder": "أدخل كلمة المرور الجديدة",
+      "confirmPasswordLabel": "تأكيد كلمة المرور الجديدة",
+      "confirmPasswordPlaceholder": "أعد إدخال كلمة المرور الجديدة",
+      "resetButton": "إعادة تعيين كلمة المرور",
+      "resetting": "جاري إعادة التعيين...",
+      "passwordStrength": {
+        "weak": "ضعيفة",
+        "medium": "متوسطة",
+        "strong": "قوية",
+        "requirements": "يجب أن تحتوي كلمة المرور على:",
+        "minLength": "8 أحرف على الأقل",
+        "uppercase": "حرف كبير واحد",
+        "number": "رقم واحد",
+        "special": "حرف خاص واحد"
+      },
+      "success": {
+        "title": "تمت إعادة تعيين كلمة المرور بنجاح!",
+        "subtitle": "تم إعادة تعيين كلمة المرور بنجاح",
+        "instruction": "يمكنك الآن تسجيل الدخول بكلمة المرور الجديدة",
+        "signInButton": "تسجيل الدخول"
+      },
+      "errors": {
+        "required": "هذا الحقل مطلوب",
+        "passwordWeak": "كلمة المرور ضعيفة جدًا",
+        "passwordMatch": "كلمات المرور غير متطابقة",
+        "invalidToken": "رابط إعادة التعيين غير صالح أو منتهي الصلاحية",
+        "serverError": "حدث خطأ ما. يرجى المحاولة مرة أخرى."
+      }
+    },
+    "verify": {
+      "title": "تحقق من بريدك الإلكتروني",
+      "subtitle": "لقد أرسلنا رمزًا مكونًا من 6 أرقام إلى",
+      "codeLabel": "أدخل رمز التحقق",
+      "verifyButton": "تحقق من البريد الإلكتروني",
+      "verifying": "جاري التحقق...",
+      "didntReceive": "لم تستلم الرمز؟",
+      "resend": "إعادة إرسال الرمز",
+      "resending": "جاري الإرسال...",
+      "backToSignIn": "العودة لتسجيل الدخول",
+      "success": {
+        "title": "تم التحقق من البريد الإلكتروني!",
+        "subtitle": "حسابك جاهز. جارٍ التحويل..."
+      },
+      "errors": {
+        "codeRequired": "الرجاء إدخال الرمز المكون من 6 أرقام",
+        "invalidLink": "رابط التحقق غير صالح",
+        "verificationFailed": "فشل التحقق. يرجى المحاولة مرة أخرى.",
+        "resendFailed": "فشل إعادة إرسال الرمز. يرجى المحاولة مرة أخرى."
+      }
+    }
+  },
+  "packages": {
+    "hero": {
+      "title": "طور عملك مع الباقات المهنية",
+      "subtitle": "اعرض أعمالك، اجذب العملاء، ووسع شبكتك المهنية",
+      "description": "اختر الباقة المثالية لرفع حضورك المهني والتواصل مع العملاء المحتملين",
+      "cta": "عرض الباقات",
+      "trustedBy": "موثوق من قبل أكثر من 1000+ محترف"
+    },
+    "comparison": {
+      "title": "اختر باقتك المثالية",
+      "subtitle": "قارن الميزات واعثر على الباقة التي تناسب احتياجات عملك",
+      "mostPopular": "الأكثر شعبية",
+      "bestValue": "أفضل قيمة",
+      "limitedTime": "وقت محدود",
+      "new": "جديد",
+      "selectPackage": "اختر الباقة",
+      "contactSales": "تواصل مع المبيعات",
+      "monthly": "شهري",
+      "yearly": "سنوي",
+      "categories": {
+        "all": "الكل",
+        "core": "الأساسي",
+        "advanced": "المتقدم",
+        "premium": "المميز",
+        "pricing": "التسعير",
+        "features": "الميزات",
+        "support": "الدعم",
+        "billing": "الفوترة",
+        "trial": "التجربة"
+      },
+      "save": "وفر"
+    },
+    "requestSpecialPackage": "اطلب الباقة الخاصة",
+    "customPricing": "سعر خاص",
+    "contactForOffer": "تواصل معنا للحصول على عرض مناسب",
+    "specialPriceShort": "تواصل معنا",
+    "specialPackageCardHelper": "عرض مناسب لاحتياجك.",
+    "specialPackageHelper": "هذه الباقة تعتمد على تسعير مخصص. أرسل طلبك وسيتواصل معك فريقنا.",
+    "sendRequest": "إرسال الطلب",
+    "requestSent": "تم إرسال طلبك بنجاح. سيتواصل معك فريقنا قريباً.",
+    "signInToPrefill": "سجّل الدخول لتعبئة بيانات شركتك تلقائياً.",
+    "specialRequest": {
+      "badge": "باقة خاصة",
+      "contactShort": "تواصل معنا",
+      "submitShort": "إرسال الطلب",
+      "shortDescription": "اترك بياناتك وسيتواصل معك فريقنا بعرض مناسب.",
+      "name": "الاسم الكامل",
+      "namePlaceholder": "أدخل اسمك الكامل",
+      "phone": "رقم الهاتف",
+      "email": "البريد الإلكتروني",
+      "emailPlaceholder": "أدخل بريدك الإلكتروني",
+      "period": "مدة الاشتراك",
+      "cancel": "إلغاء",
+      "close": "إغلاق",
+      "sending": "جارٍ الإرسال...",
+      "successDescription": "سيقوم فريقنا بمراجعة طلبك والتواصل معك بعرض مناسب.",
+      "validationRequired": "الاسم ورقم الهاتف والبريد الإلكتروني مطلوبة.",
+      "validationEmail": "يرجى إدخال بريد إلكتروني صحيح."
+    },
+    "showcase": {
+      "title": "كل ما تحتاجه للنجاح",
+      "subtitle": "ميزات قوية مصممة لمساعدتك في عرض أعمالك وتطوير عملك",
+      "projectShowcase": {
+        "title": "عرض المشاريع",
+        "description": "اعرض أفضل أعمالك بصور عالية الجودة وأوصاف مفصلة"
+      },
+      "galleryManagement": {
+        "title": "إدارة المعرض",
+        "description": "نظم واعرض محفظتك مع رفع صور غير محدود"
+      },
+      "leadGeneration": {
+        "title": "توليد العملاء",
+        "description": "تواصل مع العملاء المحتملين ووسع شبكة عملك"
+      },
+      "analytics": {
+        "title": "تحليلات متقدمة",
+        "description": "تتبع أداءك وحسن حضورك المهني"
+      }
+    },
+    "testimonials": {
+      "title": "قصص النجاح",
+      "subtitle": "شاهد كيف يطور المحترفون أعمالهم مع باقاتنا",
+      "readMore": "اقرأ المزيد من القصص"
+    },
+    "faq": {
+      "title": "الأسئلة الشائعة",
+      "subtitle": "كل ما تحتاج معرفته عن باقاتنا المهنية",
+      "questions": {
+        "pricing": {
+          "question": "كيف يعمل التسعير؟",
+          "answer": "باقاتنا مسعرة شهرياً بالجنيه المصري (EGP). يمكنك ترقية أو تخفيض باقاتك في أي وقت."
+        },
+        "features": {
+          "question": "ما الميزات المضمنة؟",
+          "answer": "كل باقة تتضمن ميزات مختلفة مثل عروض المشاريع، إدارة المعرض، توليد العملاء، والتحليلات. تحقق من جدول المقارنة للتفاصيل."
+        },
+        "support": {
+          "question": "ما نوع الدعم الذي تقدمونه؟",
+          "answer": "نقدم دعم عبر البريد الإلكتروني لجميع الباقات، مع دعم أولوي ومديري حسابات مخصصين للباقات الأعلى."
+        },
+        "cancellation": {
+          "question": "هل يمكنني إلغاء اشتراكي؟",
+          "answer": "نعم، يمكنك إلغاء اشتراكك في أي وقت. سيستمر وصولك حتى نهاية فترة الفوترة."
+        }
+      }
+    },
+    "cta": {
+      "title": "مستعد للبدء؟",
+      "subtitle": "انضم إلى آلاف المحترفين الذين يطورون أعمالهم بالفعل مع خدمات بنية",
+      "getStarted": "ابدأ الآن",
+      "contactUs": "تواصل معنا",
+      "freeTrial": "ابدأ التجربة المجانية"
+    },
+    "tiers": {
+      "starter": "أساسي",
+      "professional": "مهني",
+      "business": "أعمال",
+      "enterprise": "مؤسسي"
+    },
+    "categories": {
+      "portfolio": "محفظة",
+      "leads": "عملاء",
+      "premium": "مميز",
+      "enterprise": "مؤسسي"
+    },
+    "features": {
+      "projectShowcases": "عروض المشاريع",
+      "galleryImages": "صور المعرض",
+      "ideaBookEntries": "أفكار كتاب الأفكار",
+      "leadGeneration": "توليد العملاء",
+      "analytics": "التحليلات",
+      "customDomain": "نطاق مخصص",
+      "accountManager": "مدير حساب",
+      "whiteLabel": "علامة بيضاء",
+      "support": "الدعم"
+    },
+    "selection": {
+      "monthly": "شهري",
+      "yearly": "سنوي"
+    }
+  }
+}
